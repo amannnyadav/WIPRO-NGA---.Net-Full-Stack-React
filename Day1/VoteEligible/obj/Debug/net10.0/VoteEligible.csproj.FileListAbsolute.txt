@@ -1,0 +1,14 @@
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\VoteEligible\obj\Debug\net10.0\VoteEligible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\VoteEligible\obj\Debug\net10.0\VoteEligible.AssemblyInfoInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\VoteEligible\obj\Debug\net10.0\VoteEligible.AssemblyInfo.cs
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\VoteEligible\obj\Debug\net10.0\VoteEligible.csproj.CoreCompileInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\VoteEligible\bin\Debug\net10.0\VoteEligible.exe
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\VoteEligible\bin\Debug\net10.0\VoteEligible.deps.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\VoteEligible\bin\Debug\net10.0\VoteEligible.runtimeconfig.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\VoteEligible\bin\Debug\net10.0\VoteEligible.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\VoteEligible\bin\Debug\net10.0\VoteEligible.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\VoteEligible\obj\Debug\net10.0\VoteEligible.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\VoteEligible\obj\Debug\net10.0\refint\VoteEligible.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\VoteEligible\obj\Debug\net10.0\VoteEligible.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\VoteEligible\obj\Debug\net10.0\VoteEligible.genruntimeconfig.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\VoteEligible\obj\Debug\net10.0\ref\VoteEligible.dll
