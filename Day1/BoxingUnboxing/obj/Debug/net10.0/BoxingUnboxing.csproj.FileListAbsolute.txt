@@ -1,0 +1,15 @@
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\day1\BoxingUnboxing\obj\Debug\net10.0\BoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\day1\BoxingUnboxing\obj\Debug\net10.0\BoxingUnboxing.AssemblyInfoInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\day1\BoxingUnboxing\obj\Debug\net10.0\BoxingUnboxing.AssemblyInfo.cs
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\day1\BoxingUnboxing\obj\Debug\net10.0\BoxingUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\day1\BoxingUnboxing\obj\Debug\net10.0\BoxingUnboxing.sourcelink.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\day1\BoxingUnboxing\bin\Debug\net10.0\BoxingUnboxing.exe
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\day1\BoxingUnboxing\bin\Debug\net10.0\BoxingUnboxing.deps.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\day1\BoxingUnboxing\bin\Debug\net10.0\BoxingUnboxing.runtimeconfig.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\day1\BoxingUnboxing\bin\Debug\net10.0\BoxingUnboxing.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\day1\BoxingUnboxing\bin\Debug\net10.0\BoxingUnboxing.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\day1\BoxingUnboxing\obj\Debug\net10.0\BoxingUnboxing.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\day1\BoxingUnboxing\obj\Debug\net10.0\refint\BoxingUnboxing.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\day1\BoxingUnboxing\obj\Debug\net10.0\BoxingUnboxing.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\day1\BoxingUnboxing\obj\Debug\net10.0\BoxingUnboxing.genruntimeconfig.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\day1\BoxingUnboxing\obj\Debug\net10.0\ref\BoxingUnboxing.dll

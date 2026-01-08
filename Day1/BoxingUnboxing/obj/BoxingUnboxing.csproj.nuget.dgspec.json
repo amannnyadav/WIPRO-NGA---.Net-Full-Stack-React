@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\BoxingUnboxing\\BoxingUnboxing.csproj": {}
+    "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\day1\\BoxingUnboxing\\BoxingUnboxing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\BoxingUnboxing\\BoxingUnboxing.csproj": {
+    "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\day1\\BoxingUnboxing\\BoxingUnboxing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\BoxingUnboxing\\BoxingUnboxing.csproj",
+        "projectUniqueName": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\day1\\BoxingUnboxing\\BoxingUnboxing.csproj",
         "projectName": "BoxingUnboxing",
-        "projectPath": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\BoxingUnboxing\\BoxingUnboxing.csproj",
+        "projectPath": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\day1\\BoxingUnboxing\\BoxingUnboxing.csproj",
         "packagesPath": "C:\\Users\\Aman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\BoxingUnboxing\\obj\\",
+        "outputPath": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\day1\\BoxingUnboxing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
