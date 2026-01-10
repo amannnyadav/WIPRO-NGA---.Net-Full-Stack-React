@@ -12,3 +12,4 @@ C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day1\HelloWorld\obj\Debug\
 C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day1\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
 C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day1\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
 C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day1\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\day1\HelloWorld\obj\Debug\net10.0\HelloWorld.sourcelink.json

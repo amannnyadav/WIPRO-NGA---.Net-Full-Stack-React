@@ -8,24 +8,31 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Aman\\.nuget\\packages\\": {}
+    "C:\\Users\\Aman\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\InputName\\InputName.csproj",
+      "projectUniqueName": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\day1\\InputName\\InputName.csproj",
       "projectName": "InputName",
-      "projectPath": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\InputName\\InputName.csproj",
+      "projectPath": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\day1\\InputName\\InputName.csproj",
       "packagesPath": "C:\\Users\\Aman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\InputName\\obj\\",
+      "outputPath": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\day1\\InputName\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Aman\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Aman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

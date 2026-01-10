@@ -1,0 +1,15 @@
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.AssemblyInfoInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.AssemblyInfo.cs
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.sourcelink.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.exe
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.deps.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.runtimeconfig.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\CollectionsDemo\obj\Debug\net10.0\refint\CollectionsDemo.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.genruntimeconfig.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\CollectionsDemo\obj\Debug\net10.0\ref\CollectionsDemo.dll

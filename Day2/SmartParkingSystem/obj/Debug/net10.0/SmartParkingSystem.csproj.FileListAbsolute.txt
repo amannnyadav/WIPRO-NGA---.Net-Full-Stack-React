@@ -1,0 +1,15 @@
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SmartParkingSystem\bin\Debug\net10.0\SmartParkingSystem.exe
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SmartParkingSystem\bin\Debug\net10.0\SmartParkingSystem.deps.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SmartParkingSystem\bin\Debug\net10.0\SmartParkingSystem.runtimeconfig.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SmartParkingSystem\bin\Debug\net10.0\SmartParkingSystem.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SmartParkingSystem\bin\Debug\net10.0\SmartParkingSystem.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SmartParkingSystem\obj\Debug\net10.0\SmartParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SmartParkingSystem\obj\Debug\net10.0\SmartParkingSystem.AssemblyInfoInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SmartParkingSystem\obj\Debug\net10.0\SmartParkingSystem.AssemblyInfo.cs
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SmartParkingSystem\obj\Debug\net10.0\SmartParkingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SmartParkingSystem\obj\Debug\net10.0\SmartParkingSystem.sourcelink.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SmartParkingSystem\obj\Debug\net10.0\SmartParkingSystem.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SmartParkingSystem\obj\Debug\net10.0\refint\SmartParkingSystem.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SmartParkingSystem\obj\Debug\net10.0\SmartParkingSystem.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SmartParkingSystem\obj\Debug\net10.0\SmartParkingSystem.genruntimeconfig.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SmartParkingSystem\obj\Debug\net10.0\ref\SmartParkingSystem.dll

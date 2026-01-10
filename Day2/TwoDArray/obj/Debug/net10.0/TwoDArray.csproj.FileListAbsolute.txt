@@ -1,0 +1,15 @@
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\TwoDArray\bin\Debug\net10.0\TwoDArray.exe
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\TwoDArray\bin\Debug\net10.0\TwoDArray.deps.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\TwoDArray\bin\Debug\net10.0\TwoDArray.runtimeconfig.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\TwoDArray\bin\Debug\net10.0\TwoDArray.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\TwoDArray\bin\Debug\net10.0\TwoDArray.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\TwoDArray\obj\Debug\net10.0\TwoDArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\TwoDArray\obj\Debug\net10.0\TwoDArray.AssemblyInfoInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\TwoDArray\obj\Debug\net10.0\TwoDArray.AssemblyInfo.cs
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\TwoDArray\obj\Debug\net10.0\TwoDArray.csproj.CoreCompileInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\TwoDArray\obj\Debug\net10.0\TwoDArray.sourcelink.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\TwoDArray\obj\Debug\net10.0\TwoDArray.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\TwoDArray\obj\Debug\net10.0\refint\TwoDArray.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\TwoDArray\obj\Debug\net10.0\TwoDArray.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\TwoDArray\obj\Debug\net10.0\TwoDArray.genruntimeconfig.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\TwoDArray\obj\Debug\net10.0\ref\TwoDArray.dll

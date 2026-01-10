@@ -1,0 +1,15 @@
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SingleArray\bin\Debug\net10.0\SingleArray.exe
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SingleArray\bin\Debug\net10.0\SingleArray.deps.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SingleArray\bin\Debug\net10.0\SingleArray.runtimeconfig.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SingleArray\bin\Debug\net10.0\SingleArray.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SingleArray\bin\Debug\net10.0\SingleArray.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SingleArray\obj\Debug\net10.0\SingleArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SingleArray\obj\Debug\net10.0\SingleArray.AssemblyInfoInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SingleArray\obj\Debug\net10.0\SingleArray.AssemblyInfo.cs
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SingleArray\obj\Debug\net10.0\SingleArray.csproj.CoreCompileInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SingleArray\obj\Debug\net10.0\SingleArray.sourcelink.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SingleArray\obj\Debug\net10.0\SingleArray.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SingleArray\obj\Debug\net10.0\refint\SingleArray.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SingleArray\obj\Debug\net10.0\SingleArray.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SingleArray\obj\Debug\net10.0\SingleArray.genruntimeconfig.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day2\SingleArray\obj\Debug\net10.0\ref\SingleArray.dll
