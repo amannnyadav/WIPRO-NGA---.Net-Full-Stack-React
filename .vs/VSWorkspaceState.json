@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Day2",
-    "\\Day2\\BankingSystem",
     "\\Day2\\CollectionsDemo"
   ],
-  "SelectedNode": "\\Day2\\BankingSystem\\BankingSystem.csproj",
+  "SelectedNode": "\\Day2\\CollectionsDemo\\Orders.cs",
   "PreviewInSolutionExplorer": false
 }

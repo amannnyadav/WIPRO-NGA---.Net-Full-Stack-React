@@ -1,0 +1,15 @@
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day3\AbstractClassProducts\bin\Debug\net10.0\AbstractClassProducts.exe
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day3\AbstractClassProducts\bin\Debug\net10.0\AbstractClassProducts.deps.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day3\AbstractClassProducts\bin\Debug\net10.0\AbstractClassProducts.runtimeconfig.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day3\AbstractClassProducts\bin\Debug\net10.0\AbstractClassProducts.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day3\AbstractClassProducts\bin\Debug\net10.0\AbstractClassProducts.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day3\AbstractClassProducts\obj\Debug\net10.0\AbstractClassProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day3\AbstractClassProducts\obj\Debug\net10.0\AbstractClassProducts.AssemblyInfoInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day3\AbstractClassProducts\obj\Debug\net10.0\AbstractClassProducts.AssemblyInfo.cs
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day3\AbstractClassProducts\obj\Debug\net10.0\AbstractClassProducts.csproj.CoreCompileInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day3\AbstractClassProducts\obj\Debug\net10.0\AbstractClassProducts.sourcelink.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day3\AbstractClassProducts\obj\Debug\net10.0\AbstractClassProducts.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day3\AbstractClassProducts\obj\Debug\net10.0\refint\AbstractClassProducts.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day3\AbstractClassProducts\obj\Debug\net10.0\AbstractClassProducts.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day3\AbstractClassProducts\obj\Debug\net10.0\AbstractClassProducts.genruntimeconfig.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day3\AbstractClassProducts\obj\Debug\net10.0\ref\AbstractClassProducts.dll
