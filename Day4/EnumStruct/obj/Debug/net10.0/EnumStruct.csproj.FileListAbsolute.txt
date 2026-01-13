@@ -1,0 +1,15 @@
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\EnumStruct\bin\Debug\net10.0\EnumStruct.exe
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\EnumStruct\bin\Debug\net10.0\EnumStruct.deps.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\EnumStruct\bin\Debug\net10.0\EnumStruct.runtimeconfig.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\EnumStruct\bin\Debug\net10.0\EnumStruct.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\EnumStruct\bin\Debug\net10.0\EnumStruct.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\EnumStruct\obj\Debug\net10.0\EnumStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\EnumStruct\obj\Debug\net10.0\EnumStruct.AssemblyInfoInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\EnumStruct\obj\Debug\net10.0\EnumStruct.AssemblyInfo.cs
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\EnumStruct\obj\Debug\net10.0\EnumStruct.csproj.CoreCompileInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\EnumStruct\obj\Debug\net10.0\EnumStruct.sourcelink.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\EnumStruct\obj\Debug\net10.0\EnumStruct.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\EnumStruct\obj\Debug\net10.0\refint\EnumStruct.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\EnumStruct\obj\Debug\net10.0\EnumStruct.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\EnumStruct\obj\Debug\net10.0\EnumStruct.genruntimeconfig.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\EnumStruct\obj\Debug\net10.0\ref\EnumStruct.dll

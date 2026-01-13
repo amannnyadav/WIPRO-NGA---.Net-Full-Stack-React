@@ -1,0 +1,15 @@
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\StaticDemo\obj\Debug\net10.0\StaticDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\StaticDemo\obj\Debug\net10.0\StaticDemo.AssemblyInfoInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\StaticDemo\obj\Debug\net10.0\StaticDemo.AssemblyInfo.cs
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\StaticDemo\obj\Debug\net10.0\StaticDemo.csproj.CoreCompileInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\StaticDemo\obj\Debug\net10.0\StaticDemo.sourcelink.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\StaticDemo\bin\Debug\net10.0\StaticDemo.exe
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\StaticDemo\bin\Debug\net10.0\StaticDemo.deps.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\StaticDemo\bin\Debug\net10.0\StaticDemo.runtimeconfig.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\StaticDemo\bin\Debug\net10.0\StaticDemo.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\StaticDemo\bin\Debug\net10.0\StaticDemo.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\StaticDemo\obj\Debug\net10.0\StaticDemo.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\StaticDemo\obj\Debug\net10.0\refint\StaticDemo.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\StaticDemo\obj\Debug\net10.0\StaticDemo.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\StaticDemo\obj\Debug\net10.0\StaticDemo.genruntimeconfig.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day4\StaticDemo\obj\Debug\net10.0\ref\StaticDemo.dll
