@@ -1,0 +1,15 @@
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\LoggingDemo\bin\Debug\net10.0\LoggingDemo.exe
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\LoggingDemo\bin\Debug\net10.0\LoggingDemo.deps.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\LoggingDemo\bin\Debug\net10.0\LoggingDemo.runtimeconfig.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\LoggingDemo\bin\Debug\net10.0\LoggingDemo.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\LoggingDemo\bin\Debug\net10.0\LoggingDemo.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\LoggingDemo\obj\Debug\net10.0\LoggingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\LoggingDemo\obj\Debug\net10.0\LoggingDemo.AssemblyInfoInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\LoggingDemo\obj\Debug\net10.0\LoggingDemo.AssemblyInfo.cs
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\LoggingDemo\obj\Debug\net10.0\LoggingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\LoggingDemo\obj\Debug\net10.0\LoggingDemo.sourcelink.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\LoggingDemo\obj\Debug\net10.0\LoggingDemo.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\LoggingDemo\obj\Debug\net10.0\refint\LoggingDemo.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\LoggingDemo\obj\Debug\net10.0\LoggingDemo.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\LoggingDemo\obj\Debug\net10.0\LoggingDemo.genruntimeconfig.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\LoggingDemo\obj\Debug\net10.0\ref\LoggingDemo.dll

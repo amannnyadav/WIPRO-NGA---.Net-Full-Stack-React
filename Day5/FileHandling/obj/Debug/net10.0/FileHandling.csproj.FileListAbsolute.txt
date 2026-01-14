@@ -1,0 +1,15 @@
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\FileHandling\bin\Debug\net10.0\FileHandling.exe
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\FileHandling\bin\Debug\net10.0\FileHandling.deps.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\FileHandling\bin\Debug\net10.0\FileHandling.runtimeconfig.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\FileHandling\bin\Debug\net10.0\FileHandling.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\FileHandling\bin\Debug\net10.0\FileHandling.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\FileHandling\obj\Debug\net10.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\FileHandling\obj\Debug\net10.0\FileHandling.AssemblyInfoInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\FileHandling\obj\Debug\net10.0\FileHandling.AssemblyInfo.cs
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\FileHandling\obj\Debug\net10.0\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\FileHandling\obj\Debug\net10.0\FileHandling.sourcelink.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\FileHandling\obj\Debug\net10.0\FileHandling.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\FileHandling\obj\Debug\net10.0\refint\FileHandling.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\FileHandling\obj\Debug\net10.0\FileHandling.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\FileHandling\obj\Debug\net10.0\FileHandling.genruntimeconfig.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day5\FileHandling\obj\Debug\net10.0\ref\FileHandling.dll
