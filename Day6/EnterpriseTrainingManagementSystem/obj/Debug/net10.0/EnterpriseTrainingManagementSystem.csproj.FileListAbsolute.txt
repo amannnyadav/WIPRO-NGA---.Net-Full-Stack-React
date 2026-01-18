@@ -1,0 +1,15 @@
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\EnterpriseTrainingManagementSystem\bin\Debug\net10.0\EnterpriseTrainingManagementSystem.exe
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\EnterpriseTrainingManagementSystem\bin\Debug\net10.0\EnterpriseTrainingManagementSystem.deps.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\EnterpriseTrainingManagementSystem\bin\Debug\net10.0\EnterpriseTrainingManagementSystem.runtimeconfig.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\EnterpriseTrainingManagementSystem\bin\Debug\net10.0\EnterpriseTrainingManagementSystem.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\EnterpriseTrainingManagementSystem\bin\Debug\net10.0\EnterpriseTrainingManagementSystem.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\EnterpriseTrainingManagementSystem\obj\Debug\net10.0\EnterpriseTrainingManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\EnterpriseTrainingManagementSystem\obj\Debug\net10.0\EnterpriseTrainingManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\EnterpriseTrainingManagementSystem\obj\Debug\net10.0\EnterpriseTrainingManagementSystem.AssemblyInfo.cs
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\EnterpriseTrainingManagementSystem\obj\Debug\net10.0\EnterpriseTrainingManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\EnterpriseTrainingManagementSystem\obj\Debug\net10.0\EnterpriseTrainingManagementSystem.sourcelink.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\EnterpriseTrainingManagementSystem\obj\Debug\net10.0\EnterpriseTrainingManagementSystem.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\EnterpriseTrainingManagementSystem\obj\Debug\net10.0\refint\EnterpriseTrainingManagementSystem.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\EnterpriseTrainingManagementSystem\obj\Debug\net10.0\EnterpriseTrainingManagementSystem.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\EnterpriseTrainingManagementSystem\obj\Debug\net10.0\EnterpriseTrainingManagementSystem.genruntimeconfig.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\EnterpriseTrainingManagementSystem\obj\Debug\net10.0\ref\EnterpriseTrainingManagementSystem.dll

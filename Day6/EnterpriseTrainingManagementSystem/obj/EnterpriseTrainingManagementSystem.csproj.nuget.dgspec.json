@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\Day1\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\Day6\\EnterpriseTrainingManagementSystem\\EnterpriseTrainingManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\Day1\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\Day6\\EnterpriseTrainingManagementSystem\\EnterpriseTrainingManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\Day1\\HelloWorld\\HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\Day1\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\Day6\\EnterpriseTrainingManagementSystem\\EnterpriseTrainingManagementSystem.csproj",
+        "projectName": "EnterpriseTrainingManagementSystem",
+        "projectPath": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\Day6\\EnterpriseTrainingManagementSystem\\EnterpriseTrainingManagementSystem.csproj",
         "packagesPath": "C:\\Users\\Aman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\Day1\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Aman\\OneDrive\\Desktop\\Wipro_MS-DynamicsJan26\\Day6\\EnterpriseTrainingManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

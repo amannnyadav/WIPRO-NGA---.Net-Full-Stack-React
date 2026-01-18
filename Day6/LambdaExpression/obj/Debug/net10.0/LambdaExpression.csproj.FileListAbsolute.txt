@@ -1,0 +1,15 @@
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\LambdaExpression\bin\Debug\net10.0\LambdaExpression.exe
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\LambdaExpression\bin\Debug\net10.0\LambdaExpression.deps.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\LambdaExpression\bin\Debug\net10.0\LambdaExpression.runtimeconfig.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\LambdaExpression\bin\Debug\net10.0\LambdaExpression.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\LambdaExpression\bin\Debug\net10.0\LambdaExpression.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\LambdaExpression\obj\Debug\net10.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\LambdaExpression\obj\Debug\net10.0\LambdaExpression.AssemblyInfoInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\LambdaExpression\obj\Debug\net10.0\LambdaExpression.AssemblyInfo.cs
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\LambdaExpression\obj\Debug\net10.0\LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\LambdaExpression\obj\Debug\net10.0\LambdaExpression.sourcelink.json
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\LambdaExpression\obj\Debug\net10.0\LambdaExpression.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\LambdaExpression\obj\Debug\net10.0\refint\LambdaExpression.dll
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\LambdaExpression\obj\Debug\net10.0\LambdaExpression.pdb
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\LambdaExpression\obj\Debug\net10.0\LambdaExpression.genruntimeconfig.cache
+C:\Users\Aman\OneDrive\Desktop\Wipro_MS-DynamicsJan26\Day6\LambdaExpression\obj\Debug\net10.0\ref\LambdaExpression.dll
